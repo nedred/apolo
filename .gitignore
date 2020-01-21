@@ -1,0 +1,11 @@
+# VS Code IDE settings
+/.idea
+/.vscode
+/ENV
+
+
+# Python cache files
+*.py[co]
+
+
+/src/db.sqlite3
